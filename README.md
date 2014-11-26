@@ -2,7 +2,7 @@
 
 # pixelbutler-starter
 
-[![Build Status](https://secure.travis-ci.org/pixelbutler/pixelbutler-starter.svg?branch=master)](http://travis-ci.org/pixelbutler/pixelbutler-starter) [![Dependency Status](https://david-dm.org/pixelbutler/pixelbutler-starter.svg)](https://david-dm.org/pixelbutler/pixelbutler-starter) [![devDependency Status](https://david-dm.org/pixelbutler/pixelbutler-starter/dev-status.svg)](https://david-dm.org/pixelbutler/pixelbutler-starter#info=devDependencies)
+[![Build Status](https://secure.travis-ci.org/Bartvds/pixelbutler-starter.svg?branch=master)](http://travis-ci.org/Bartvds/pixelbutler-starter) [![Dependency Status](https://david-dm.org/Bartvds/pixelbutler-starter.svg)](https://david-dm.org/Bartvds/pixelbutler-starter) [![devDependency Status](https://david-dm.org/Bartvds/pixelbutler-starter/dev-status.svg)](https://david-dm.org/Bartvds/pixelbutler-starter#info=devDependencies)
 
 > [Pixelbutler](https://github.com/pixelbutler/pixelbutler/) starter kit.
 
@@ -28,7 +28,7 @@ npm install tsd@next -g
 Create a new project & get the dependencies:
 
 ````
-git clone https://github.com/pixelbutler/pixelbutler-starter.git my-project
+git clone https://github.com/Bartvds/pixelbutler-starter.git my-project
 cd my-project
 npm install
 ````

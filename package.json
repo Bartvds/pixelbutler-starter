@@ -12,10 +12,10 @@
     "pixel",
     "gamejam"
   ],
-  "homepage": "https://github.com/pixelbutler/pixelbutler-starter",
+  "homepage": "https://github.com/Bartvds/pixelbutler-starter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pixelbutler/pixelbutler-starter.git"
+    "url": "https://github.com/Bartvds/pixelbutler-starter.git"
   },
   "authors": [
     {
@@ -28,11 +28,11 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/pixelbutler/pixelbutler-starter/issues"
+    "url": "https://github.com/Bartvds/pixelbutler-starter/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "https://raw.github.com/pixelbutler/pixelbutler-starter/master/LICENSE-MIT"
+    "url": "https://raw.github.com/Bartvds/pixelbutler-starter/master/LICENSE-MIT"
   },
   "engines": {
     "node": ">= 0.10.0"
