@@ -13,6 +13,7 @@
 
 :warning: Readme still under construction.
 
+
 ## Quick-start
 
 Development tools run on [node.js](http://nodejs.org/) `>= v0.10`
@@ -24,19 +25,16 @@ npm install grunt-cli -g
 npm install tsd@next -g
 ````
 
-Create a new project:
+Create a new project & get the dependencies:
 
 ````
 git clone https://github.com/pixelbutler/pixelbutler-starter.git my-project
 cd my-project
+npm install
 ````
 
-Get the dependencies:
-````
-npm install
-tsd reinstall
-tsd link
-````
+
+## Grunt commands
 
 Rebuild project:
 ````
@@ -60,6 +58,7 @@ See the `Gruntfile.js` and `$ grunt --help` for additional commands.
 
 ..are very welcome. Try to stay consistent with existing style, and make sure
 to run `grunt test` before sending a pull request.
+
 
 ## License
 
