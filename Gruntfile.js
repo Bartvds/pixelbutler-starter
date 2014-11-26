@@ -60,7 +60,7 @@ module.exports = function (grunt) {
 			}
 		},
 		watch: {
-			all: {
+			source: {
 				options: {
 					atBegin: true
 				},
@@ -161,6 +161,10 @@ module.exports = function (grunt) {
 		'clean:tmp'
 	]);
 
+	grunt.registerTask('dev', [
+		'watch:source'
+	]);
+
 	grunt.registerTask('test', [
 		'build',
 		// more!
@@ -176,6 +180,6 @@ module.exports = function (grunt) {
 	]);
 
 	grunt.registerTask('onwatch', [
-		'compile'
+		'debug'
 	]);
 };

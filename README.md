@@ -6,23 +6,51 @@
 
 > [Pixelbutler](https://github.com/pixelbutler/pixelbutler/) starter kit.
 
- - Grunt
- - TypeScript
- - Webpack
+ - [npm](https://www.npmjs.org/)
+ - [Grunt](http://gruntjs.com)
+ - [TypeScript](http://typescriptlang.org)
+ - [Webpack](https://github.com/webpack/webpack)
 
-## Development
+:warning: Readme still under construction.
 
-The project is written in [TypeScript](http://typescriptlang.org), and built for browsers using [grunt](http://gruntjs.com) and [webpack](https://github.com/webpack/webpack). Development tools run on [node.js](http://nodejs.org/) and are pulled from [npm](https://www.npmjs.org/).
+## Quick-start
+
+Development tools run on [node.js](http://nodejs.org/) `>= v0.10`
+
+Make sure you have thes global commands `grunt` & `tsd`:
 
 ````
 npm install grunt-cli -g
-npm install tsd -g
+npm install tsd@next -g
+````
 
-git clone https://github.com/pixelbutler/pixelbutler-starter.git
+Create a new project:
+
+````
+git clone https://github.com/pixelbutler/pixelbutler-starter.git my-project
+cd my-project
+````
+
+Get the dependencies:
+````
 npm install
 tsd reinstall
-tsd rebundle
+tsd link
+````
+
+Rebuild project:
+````
 grunt build
+````
+
+Start watch [http://localhost:8888/](http://localhost:8888/)
+````
+grunt dev
+````
+
+Start local server [http://localhost:8888/](http://localhost:8888/)
+````
+grunt server
 ````
 
 See the `Gruntfile.js` and `$ grunt --help` for additional commands.
