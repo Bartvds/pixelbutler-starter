@@ -2,7 +2,7 @@
 
 # pixelbutler-starter
 
-[![Build Status](https://secure.travis-ci.org/pixelbutler/pixelbutler-starter.svg?branch=master)](http://travis-ci.org/pixelbutler/pixelbutler-starter) [![NPM version](https://badge.fury.io/js/pixelbutler.svg)](http://badge.fury.io/js/pixelbutler) [![Dependency Status](https://david-dm.org/pixelbutler/pixelbutler-starter.svg)](https://david-dm.org/pixelbutler/pixelbutler-starter) [![devDependency Status](https://david-dm.org/pixelbutler/pixelbutler-starter/dev-status.svg)](https://david-dm.org/pixelbutler/pixelbutler-starter#info=devDependencies)
+[![Build Status](https://secure.travis-ci.org/pixelbutler/pixelbutler-starter.svg?branch=master)](http://travis-ci.org/pixelbutler/pixelbutler-starter) [![Dependency Status](https://david-dm.org/pixelbutler/pixelbutler-starter.svg)](https://david-dm.org/pixelbutler/pixelbutler-starter) [![devDependency Status](https://david-dm.org/pixelbutler/pixelbutler-starter/dev-status.svg)](https://david-dm.org/pixelbutler/pixelbutler-starter#info=devDependencies)
 
 > [Pixelbutler](https://github.com/pixelbutler/pixelbutler/) starter kit.
 
