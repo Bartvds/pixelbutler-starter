@@ -21,7 +21,7 @@ npm install tsd -g
 git clone https://github.com/pixelbutler/pixelbutler-starter.git
 npm install
 tsd reinstall
-tsd link
+tsd rebundle
 grunt build
 ````
 
