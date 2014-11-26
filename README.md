@@ -41,12 +41,17 @@ Rebuild project:
 grunt build
 ````
 
-Start watch [http://localhost:8888/](http://localhost:8888/)
+Rebuild project in debug mode:
+````
+grunt debug
+````
+
+Start watch in debug mode:
 ````
 grunt dev
 ````
 
-Start local server [http://localhost:8888/](http://localhost:8888/)
+Start local server at [http://localhost:8888/](http://localhost:8888/):
 ````
 grunt server
 ````
